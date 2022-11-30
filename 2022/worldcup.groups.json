@@ -9,22 +9,22 @@
         "group": "A"
       },
       {
-          "name_en": "Ecuador",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/125px-Flag_of_Ecuador.svg.png",
-          "fifa_code": "ECU",
-          "group": "A"
+        "name_en": "Ecuador",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/125px-Flag_of_Ecuador.svg.png",
+        "fifa_code": "ECU",
+        "group": "A"
       },
       {
-          "name_en": "Senegal",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/125px-Flag_of_Senegal.svg.png",
-          "fifa_code": "SN",
-          "group": "A"
+        "name_en": "Senegal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/125px-Flag_of_Senegal.svg.png",
+        "fifa_code": "SN",
+        "group": "A"
       },
       {
-          "name_en": "Nederlands",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png",
-          "fifa_code": "NL",
-          "group": "A"
+        "name_en": "Nederlands",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png",
+        "fifa_code": "NL",
+        "group": "A"
       }
     ],
     "B": [
@@ -113,23 +113,23 @@
         "group": "E"
       },
       {
-          "name_en": "Costa Rica",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/125px-Flag_of_Costa_Rica_%28state%29.svg.png",
-          "fifa_code": "CRC",
-          "group": "E"
+        "name_en": "Costa Rica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/125px-Flag_of_Costa_Rica_%28state%29.svg.png",
+        "fifa_code": "CRC",
+        "group": "E"
       },
       {
-          "name_en": "Germany",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png",
-          "fifa_code": "GER",
-          "group": "E"
+        "name_en": "Germany",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png",
+        "fifa_code": "GER",
+        "group": "E"
       },
       {
-          "name_en": "Japan",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
-          "fifa_code": "JPN",
-          "group": "E"
-      },
+        "name_en": "Japan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
+        "fifa_code": "JPN",
+        "group": "E"
+      }
     ],
     "F": [
       {
@@ -139,22 +139,22 @@
         "group": "F"
       },
       {
-          "name_en": "Canada",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png",
-          "fifa_code": "CAN",
-          "group": "F"
+        "name_en": "Canada",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png",
+        "fifa_code": "CAN",
+        "group": "F"
       },
       {
-          "name_en": "Morocco",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png",
-          "fifa_code": "MAR",
-          "group": "F"
+        "name_en": "Morocco",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png",
+        "fifa_code": "MAR",
+        "group": "F"
       },
       {
-          "name_en": "Croatia",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png",
-          "fifa_code": "CRO",
-          "group": "F"
+        "name_en": "Croatia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png",
+        "fifa_code": "CRO",
+        "group": "F"
       }
     ],
     "G": [
@@ -165,22 +165,22 @@
         "group": "G"
       },
       {
-          "name_en": "Serbia",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/125px-Flag_of_Serbia.svg.png",
-          "fifa_code": "SRB",
-          "group": "G"
+        "name_en": "Serbia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/125px-Flag_of_Serbia.svg.png",
+        "fifa_code": "SRB",
+        "group": "G"
       },
       {
-          "name_en": "Switzerland",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/100px-Flag_of_Switzerland.svg.png",
-          "fifa_code": "SUI",
-          "group": "G"
+        "name_en": "Switzerland",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/100px-Flag_of_Switzerland.svg.png",
+        "fifa_code": "SUI",
+        "group": "G"
       },
       {
-          "name_en": "Cameroon",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/125px-Flag_of_Cameroon.svg.png",
-          "fifa_code": "CMR",
-          "group": "G"
+        "name_en": "Cameroon",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/125px-Flag_of_Cameroon.svg.png",
+        "fifa_code": "CMR",
+        "group": "G"
       }
     ],
     "H": [
@@ -191,22 +191,22 @@
         "group": "H"
       },
       {
-          "name_en": "Ghana",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/125px-Flag_of_Ghana.svg.png",
-          "fifa_code": "GHA",
-          "group": "H"
+        "name_en": "Ghana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/125px-Flag_of_Ghana.svg.png",
+        "fifa_code": "GHA",
+        "group": "H"
       },
       {
-          "name_en": "Uruguay",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/125px-Flag_of_Uruguay.svg.png",
-          "fifa_code": "URU",
-          "group": "H"
+        "name_en": "Uruguay",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/125px-Flag_of_Uruguay.svg.png",
+        "fifa_code": "URU",
+        "group": "H"
       },
       {
-          "name_en": "South Korea",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png",
-          "fifa_code": "KOR",
-          "group": "H"
+        "name_en": "South Korea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png",
+        "fifa_code": "KOR",
+        "group": "H"
       }
     ]
   }

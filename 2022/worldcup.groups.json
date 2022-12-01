@@ -1,5 +1,35 @@
 {
   "name": "World Cup 2022",
+  "groups": [
+    {
+      "A": [
+        {
+          "name_en": "Qatar",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/125px-Flag_of_Qatar.svg.png",
+          "fifa_code": "QAT",
+          "group": "A"
+        },
+        {
+            "name_en": "Ecuador",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/125px-Flag_of_Ecuador.svg.png",
+            "fifa_code": "ECU",
+            "group": "A"
+        },
+        {
+            "name_en": "Senegal",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/125px-Flag_of_Senegal.svg.png",
+            "fifa_code": "SN",
+            "group": "A"
+        },
+        {
+            "name_en": "Nederlands",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png",
+            "fifa_code": "NL",
+            "group": "A"
+        }
+      ]
+    }
+  ],
   "teams": [
       {
           "name_en": "Iran",
@@ -18,6 +48,12 @@
           "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
           "fifa_code": "USA",
           "group": "B"
+      },
+      {
+        "name_en": "Wales",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Wales_%281959%29.svg/125px-Flag_of_Wales_%281959%29.svg.png",
+        "fifa_code": "WAL",
+        "group": "B"
       },
       {
           "name_en": "Qatar",
@@ -186,12 +222,6 @@
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png",
           "fifa_code": "KOR",
           "group": "H"
-      },
-      {
-          "name_en": "Wales",
-          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Wales_%281959%29.svg/125px-Flag_of_Wales_%281959%29.svg.png",
-          "fifa_code": "WAL",
-          "group": "B"
       }
   ]
 }

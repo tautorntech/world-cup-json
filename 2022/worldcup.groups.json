@@ -27,7 +27,9 @@
             "fifa_code": "NL",
             "group": "A"
         }
-      ],
+      ]
+    },
+    {
       "B": [
         {
           "name_en": "Iran",
@@ -53,7 +55,9 @@
           "fifa_code": "WAL",
           "group": "B"
         }
-      ],
+      ]
+    },
+    {
       "C": [
         {
           "name_en": "Argentina",
@@ -79,7 +83,9 @@
             "fifa_code": "POL",
             "group": "C"
         }
-      ],
+      ]
+    },
+    {
       "D": [
         {
           "name_en": "France",
@@ -105,7 +111,9 @@
             "fifa_code": "TUN",
             "group": "D"
         }
-      ],
+      ]
+    },
+    {
       "E": [
         {
           "name_en": "Spain",
@@ -131,7 +139,9 @@
             "fifa_code": "JPN",
             "group": "E"
         }
-      ],
+      ]
+    },
+    {
       "F": [
         {
           "name_en": "Belgium",
@@ -157,7 +167,9 @@
             "fifa_code": "CRO",
             "group": "F"
         }
-      ],
+      ]
+    },
+    {
       "G": [
         {
           "name_en": "Brazil",
@@ -183,7 +195,9 @@
             "fifa_code": "CMR",
             "group": "G"
         }
-      ],
+      ]
+    },
+    { 
       "H": [
         {
           "name_en": "Portugal",

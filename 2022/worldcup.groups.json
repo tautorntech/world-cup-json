@@ -6,25 +6,57 @@
           "name_en": "Qatar",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/125px-Flag_of_Qatar.svg.png",
           "fifa_code": "QAT",
-          "group": "A"
+          "group": "A",
+          "position":4,
+          "wins":0,
+          "points":0,
+          "draws":0,
+          "losses":3,
+          "goalsScored":1,
+          "goalsConceded":7,
+          "goalsDifference":-6
         },
         {
             "name_en": "Ecuador",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/125px-Flag_of_Ecuador.svg.png",
             "fifa_code": "ECU",
-            "group": "A"
+            "group": "A",
+            "position":3,
+            "wins":1,
+            "points":4,
+            "draws":1,
+            "losses":1,
+            "goalsScored":4,
+            "goalsConceded":3,
+            "goalsDifference":1
         },
         {
             "name_en": "Senegal",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/125px-Flag_of_Senegal.svg.png",
             "fifa_code": "SN",
-            "group": "A"
+            "group": "A",
+            "position":2,
+            "wins":2,
+            "points":6,
+            "draws":0,
+            "losses":1,
+            "goalsScored":5,
+            "goalsConceded":4,
+            "goalsDifference":1
         },
         {
             "name_en": "Nederlands",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png",
             "fifa_code": "NL",
-            "group": "A"
+            "group": "A",
+            "position":1,
+            "wins":2,
+            "points":7,
+            "draws":1,
+            "losses":0,
+            "goalsScored":5,
+            "goalsConceded":1,
+            "goalsDifference":4
         }
       ],
       "B": [
@@ -32,25 +64,57 @@
           "name_en": "Iran",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/125px-Flag_of_Iran.svg.png",
           "fifa_code": "IRN",
-          "group": "B"
+          "group": "B",
+          "position":3,
+          "wins":1,
+          "points":3,
+          "draws":0,
+          "losses":2,
+          "goalsScored":4,
+          "goalsConceded":7,
+          "goalsDifference":-3
         },
         {
             "name_en": "England",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/125px-Flag_of_England.svg.png",
             "fifa_code": "ENG",
-            "group": "B"
+            "group": "B",
+            "position":1,
+            "wins":2,
+            "points":7,
+            "draws":1,
+            "losses":0,
+            "goalsScored":9,
+            "goalsConceded":2,
+            "goalsDifference":7
         },
         {
             "name_en": "United States",
             "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
             "fifa_code": "USA",
-            "group": "B"
+            "group": "B",
+            "position":2,
+            "wins":1,
+            "points":5,
+            "draws":2,
+            "losses":0,
+            "goalsScored":2,
+            "goalsConceded":1,
+            "goalsDifference":1
         },
         {
           "name_en": "Wales",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Wales_%281959%29.svg/125px-Flag_of_Wales_%281959%29.svg.png",
           "fifa_code": "WAL",
-          "group": "B"
+          "group": "B",
+          "position":4,
+          "wins":0,
+          "points":1,
+          "draws":1,
+          "losses":2,
+          "goalsScored":1,
+          "goalsConceded":6,
+          "goalsDifference":-5
         }
       ],
       "C": [
@@ -58,25 +122,57 @@
           "name_en": "Argentina",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png",
           "fifa_code": "ARG",
-          "group": "C"
+          "group": "C",
+          "position":1,
+          "wins":2,
+          "points":6,
+          "draws":0,
+          "losses":1,
+          "goalsScored":5,
+          "goalsConceded":2,
+          "goalsDifference":3
         },
         {
             "name_en": "Saudi Arabia",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/125px-Flag_of_Saudi_Arabia.svg.png",
             "fifa_code": "KSA",
-            "group": "C"
+            "group": "C",
+            "position":4,
+            "wins":1,
+            "points":3,
+            "draws":0,
+            "losses":2,
+            "goalsScored":3,
+            "goalsConceded":5,
+            "goalsDifference":-2
         },
         {
             "name_en": "Mexico",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png",
             "fifa_code": "MEX",
-            "group": "C"
+            "group": "C",
+            "position":3,
+            "wins":1,
+            "points":4,
+            "draws":1,
+            "losses":1,
+            "goalsScored":2,
+            "goalsConceded":3,
+            "goalsDifference":-1
         },
         {
             "name_en": "Poland",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/125px-Flag_of_Poland.svg.png",
             "fifa_code": "POL",
-            "group": "C"
+            "group": "C",
+            "position":2,
+            "wins":1,
+            "points":4,
+            "draws":1,
+            "losses":1,
+            "goalsScored":2,
+            "goalsConceded":2,
+            "goalsDifference":0
         }
       ],
       "D": [
@@ -84,25 +180,57 @@
           "name_en": "France",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/125px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
           "fifa_code": "FRA",
-          "group": "D"
+          "group": "D",
+          "position":1,
+          "wins":2,
+          "points":6,
+          "draws":0,
+          "losses":1,
+          "goalsScored":6,
+          "goalsConceded":3,
+          "goalsDifference":3
         },
         {
             "name_en": "Australia",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png",
             "fifa_code": "AUS",
-            "group": "D"
+            "group": "D",
+            "position":2,
+            "wins":2,
+            "points":6,
+            "draws":0,
+            "losses":1,
+            "goalsScored":3,
+            "goalsConceded":4,
+            "goalsDifference":-1
         },
         {
             "name_en": "Denmark",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/125px-Flag_of_Denmark.svg.png",
             "fifa_code": "DEN",
-            "group": "D"
+            "group": "D",
+            "position":4,
+            "wins":0,
+            "points":1,
+            "draws":1,
+            "losses":2,
+            "goalsScored":1,
+            "goalsConceded":3,
+            "goalsDifference":-2
         },
         {
             "name_en": "Tunisia",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/125px-Flag_of_Tunisia.svg.png",
             "fifa_code": "TUN",
-            "group": "D"
+            "group": "D",
+            "position":3,
+            "wins":1,
+            "points":4,
+            "draws":1,
+            "losses":1,
+            "goalsScored":1,
+            "goalsConceded":1,
+            "goalsDifference":0
         }
       ],
       "E": [
@@ -110,25 +238,57 @@
           "name_en": "Spain",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png",
           "fifa_code": "ESP",
-          "group": "E"
+          "group": "E",
+          "position":2,
+          "wins":1,
+          "points":4,
+          "draws":1,
+          "losses":1,
+          "goalsScored":9,
+          "goalsConceded":3,
+          "goalsDifference":6
         },
         {
             "name_en": "Costa Rica",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/125px-Flag_of_Costa_Rica_%28state%29.svg.png",
             "fifa_code": "CRC",
-            "group": "E"
+            "group": "E",
+            "position":4,
+            "wins":1,
+            "points":3,
+            "draws":0,
+            "losses":2,
+            "goalsScored":3,
+            "goalsConceded":11,
+            "goalsDifference":-8
         },
         {
             "name_en": "Germany",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png",
             "fifa_code": "GER",
-            "group": "E"
+            "group": "E",
+            "position":3,
+            "wins":1,
+            "points":4,
+            "draws":1,
+            "losses":1,
+            "goalsScored":6,
+            "goalsConceded":5,
+            "goalsDifference":1
         },
         {
             "name_en": "Japan",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
             "fifa_code": "JPN",
-            "group": "E"
+            "group": "E",
+            "position":1,
+            "wins":2,
+            "points":6,
+            "draws":0,
+            "losses":1,
+            "goalsScored":4,
+            "goalsConceded":3,
+            "goalsDifference":1
         }
       ],
       "F": [
@@ -136,25 +296,57 @@
           "name_en": "Belgium",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/125px-Flag_of_Belgium.svg.png",
           "fifa_code": "BEL",
-          "group": "F"
+          "group": "F",
+          "position":3,
+          "wins":1,
+          "points":4,
+          "draws":1,
+          "losses":1,
+          "goalsScored":1,
+          "goalsConceded":2,
+          "goalsDifference":-1
         },
         {
             "name_en": "Canada",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png",
             "fifa_code": "CAN",
-            "group": "F"
+            "group": "F",
+            "position":4,
+            "wins":0,
+            "points":0,
+            "draws":0,
+            "losses":3,
+            "goalsScored":2,
+            "goalsConceded":7,
+            "goalsDifference":-5
         },
         {
             "name_en": "Morocco",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png",
             "fifa_code": "MAR",
-            "group": "F"
+            "group": "F",
+            "position":1,
+            "wins":2,
+            "points":7,
+            "draws":1,
+            "losses":0,
+            "goalsScored":4,
+            "goalsConceded":1,
+            "goalsDifference":3
         },
         {
             "name_en": "Croatia",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png",
             "fifa_code": "CRO",
-            "group": "F"
+            "group": "F",
+            "position":2,
+            "wins":1,
+            "points":5,
+            "draws":2,
+            "losses":0,
+            "goalsScored":4,
+            "goalsConceded":1,
+            "goalsDifference":3
         }
       ],
       "G": [
@@ -162,25 +354,60 @@
           "name_en": "Brazil",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png",
           "fifa_code": "BRA",
-          "group": "G"
+          "group": "G",
+          "position":1,
+          "wins":2,
+          "points":6,
+          "draws":0,
+          "losses":0,
+          "goalsScored":3,
+          "goalsConceded":0,
+          "goalsDifference":3
         },
         {
             "name_en": "Serbia",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/125px-Flag_of_Serbia.svg.png",
             "fifa_code": "SRB",
-            "group": "G"
+            "group": "G",
+            "alternateName":"Serbia",
+            "position":4,
+            "wins":0,
+            "points":1,
+            "draws":1,
+            "losses":1,
+            "goalsScored":3,
+            "goalsConceded":5,
+            "goalsDifference":-2
         },
         {
             "name_en": "Switzerland",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/100px-Flag_of_Switzerland.svg.png",
             "fifa_code": "SUI",
-            "group": "G"
+            "group": "G",
+            "alternateName":"Switzerland",
+            "position":2,
+            "wins":1,
+            "points":3,
+            "draws":0,
+            "losses":1,
+            "goalsScored":1,
+            "goalsConceded":1,
+            "goalsDifference":0
         },
         {
             "name_en": "Cameroon",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/125px-Flag_of_Cameroon.svg.png",
             "fifa_code": "CMR",
-            "group": "G"
+            "group": "G",
+            "alternateName":"Cameroon",
+            "position":3,
+            "wins":0,
+            "points":1,
+            "draws":1,
+            "losses":1,
+            "goalsScored":3,
+            "goalsConceded":4,
+            "goalsDifference":-1
         }
       ],
       "H": [
@@ -188,25 +415,57 @@
           "name_en": "Portugal",
           "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/125px-Flag_of_Portugal.svg.png",
           "fifa_code": "POR",
-          "group": "H"
+          "group": "H",
+          "position":1,
+          "wins":2,
+          "points":6,
+          "draws":0,
+          "losses":0,
+          "goalsScored":5,
+          "goalsConceded":2,
+          "goalsDifference":3
         },
         {
             "name_en": "Ghana",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/125px-Flag_of_Ghana.svg.png",
             "fifa_code": "GHA",
-            "group": "H"
+            "group": "H",
+            "position":2,
+            "wins":1,
+            "points":3,
+            "draws":0,
+            "losses":1,
+            "goalsScored":5,
+            "goalsConceded":5,
+            "goalsDifference":0
         },
         {
             "name_en": "Uruguay",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/125px-Flag_of_Uruguay.svg.png",
             "fifa_code": "URU",
-            "group": "H"
+            "group": "H",
+            "position":4,
+            "wins":0,
+            "points":1,
+            "draws":1,
+            "losses":1,
+            "goalsScored":0,
+            "goalsConceded":2,
+            "goalsDifference":-2
         },
         {
             "name_en": "South Korea",
             "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png",
             "fifa_code": "KOR",
-            "group": "H"
+            "group": "H",
+            "position":3,
+            "wins":0,
+            "points":1,
+            "draws":1,
+            "losses":1,
+            "goalsScored":2,
+            "goalsConceded":3,
+            "goalsDifference":-1
         }
       ]
     }

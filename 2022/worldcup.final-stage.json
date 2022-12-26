@@ -1,0 +1,1268 @@
+{
+  "matches": [
+      {
+         "id":"clakj8jil0053ra2t13wmp567",
+         "venue":"Khalifa International Stadium",
+         "location":"Ar-Rayyan",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"NED",
+            "goals":3,
+            "name":"Netherlands",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"USA",
+            "goals":1,
+            "name":"USA",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Wilton SAMPAIO",
+               "role":"Referee",
+               "country":"BRA"
+            },
+            {
+               "name":"Bruno Boschilia",
+               "role":"Assistant Referee 1",
+               "country":"BRA"
+            },
+            {
+               "name":"Bruno PIRES",
+               "role":"Assistant Referee 2",
+               "country":"BRA"
+            },
+            {
+               "name":"Andres Matias MATONTE CABRERA",
+               "role":"Fourth official",
+               "country":"URU"
+            },
+            {
+               "name":"Nicolás Gallo Barragán",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"COL"
+            },
+            {
+               "name":"Ashley Beecham",
+               "role":"Offside VAR",
+               "country":"AUS"
+            },
+            {
+               "name":"Juan SOTO",
+               "role":"Assistant VAR",
+               "country":"VEN"
+            },
+            {
+               "name":"Mauro Vigliano",
+               "role":"Support VAR",
+               "country":"ARG"
+            },
+            {
+               "name":"Nicolás Taran",
+               "role":"Reserve Assistant Referee",
+               "country":"URU"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.141Z",
+         "date":"2022-12-03T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.682Z",
+         "winner":"Netherlands",
+         "matchNumber":49
+      },
+      {
+         "id":"clakj8jil0057ra2tbheqxb6f",
+         "venue":"Ahmad Bin Ali Stadium",
+         "location":"Ar-Rayyan",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"ARG",
+            "goals":2,
+            "name":"Argentina",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"AUS",
+            "goals":1,
+            "name":"Australia",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Szymon MARCINIAK",
+               "role":"Referee",
+               "country":"POL"
+            },
+            {
+               "name":"Pawel SOKOLNICKI",
+               "role":"Assistant Referee 1",
+               "country":"POL"
+            },
+            {
+               "name":"Tomasz LISTKIEWICZ",
+               "role":"Assistant Referee 2",
+               "country":"POL"
+            },
+            {
+               "name":"Mario Alberto Escobar Toca",
+               "role":"Fourth official",
+               "country":"GUA"
+            },
+            {
+               "name":"Tomasz KWIATKOWSKI",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"POL"
+            },
+            {
+               "name":"Alessandro Giallatini",
+               "role":"Offside VAR",
+               "country":"ITA"
+            },
+            {
+               "name":"Marco Fritz",
+               "role":"Assistant VAR",
+               "country":"GER"
+            },
+            {
+               "name":"Benoit MILLOT",
+               "role":"Support VAR",
+               "country":"FRA"
+            },
+            {
+               "name":"Karen DIAZ MEDINA",
+               "role":"Reserve Assistant Referee",
+               "country":"MEX"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.141Z",
+         "date":"2022-12-03T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:01.763Z",
+         "winner":"Argentina",
+         "matchNumber":50
+      },
+      {
+         "id":"clakj8jil0056ra2tspsh2wb2",
+         "venue":"Al Thumama Stadium",
+         "location":"Doha",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"FRA",
+            "goals":3,
+            "name":"France",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"POL",
+            "goals":1,
+            "name":"Poland",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Jesús Valenzuela Sáez",
+               "role":"Referee",
+               "country":"VEN"
+            },
+            {
+               "name":"Jorge Urrego Martínez",
+               "role":"Assistant Referee 1",
+               "country":"VEN"
+            },
+            {
+               "name":"Tulio Moreno",
+               "role":"Assistant Referee 2",
+               "country":"VEN"
+            },
+            {
+               "name":"Kevin Ortega",
+               "role":"Fourth official",
+               "country":"PER"
+            },
+            {
+               "name":"Juan SOTO",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"VEN"
+            },
+            {
+               "name":"Neuza Ines Back",
+               "role":"Offside VAR",
+               "country":"BRA"
+            },
+            {
+               "name":"Mauro Vigliano",
+               "role":"Assistant VAR",
+               "country":"ARG"
+            },
+            {
+               "name":"Julio Bascuñán González",
+               "role":"Support VAR",
+               "country":"CHI"
+            },
+            {
+               "name":"Michael Orué",
+               "role":"Reserve Assistant Referee",
+               "country":"PER"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.141Z",
+         "date":"2022-12-04T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.558Z",
+         "winner":"France",
+         "matchNumber":52
+      },
+      {
+         "id":"clakj8jil005bra2t67a1wtkw",
+         "venue":"Al Bayt Stadium",
+         "location":"Al Khor",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"ENG",
+            "goals":3,
+            "name":"England",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"SEN",
+            "goals":0,
+            "name":"Senegal",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Ivan Arcides Barton Cisneros",
+               "role":"Referee",
+               "country":"SLV"
+            },
+            {
+               "name":"David Jonathan Morán Santos",
+               "role":"Assistant Referee 1",
+               "country":"SLV"
+            },
+            {
+               "name":"Katie Nesbitt",
+               "role":"Assistant Referee 2",
+               "country":"USA"
+            },
+            {
+               "name":"Said MARTINEZ",
+               "role":"Fourth official",
+               "country":"HON"
+            },
+            {
+               "name":"Drew Fischer",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"CAN"
+            },
+            {
+               "name":"Ashley Beecham",
+               "role":"Offside VAR",
+               "country":"AUS"
+            },
+            {
+               "name":"Armando Villarreal",
+               "role":"Assistant VAR",
+               "country":"USA"
+            },
+            {
+               "name":"Nicolás Gallo Barragán",
+               "role":"Support VAR",
+               "country":"COL"
+            },
+            {
+               "name":"Helpys Raymundo Feliz Cuevas",
+               "role":"Reserve Assistant Referee",
+               "country":"DOM"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.141Z",
+         "date":"2022-12-04T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.032Z",
+         "winner":"England",
+         "matchNumber":51
+      },
+      {
+         "id":"clakj8jim005qra2tn5q95y7d",
+         "venue":"Al Janoub Stadium",
+         "location":"Al Wakrah",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"JPN",
+            "goals":1,
+            "name":"Japan",
+            "penalties":1
+         },
+         "awayTeam":{
+            "country":"CRO",
+            "goals":1,
+            "name":"Croatia",
+            "penalties":3
+         },
+         "officials":[
+            {
+               "name":"Ismail Elfath",
+               "role":"Referee",
+               "country":"USA"
+            },
+            {
+               "name":"Corey Parker",
+               "role":"Assistant Referee 1",
+               "country":"USA"
+            },
+            {
+               "name":"Kyle Atkins",
+               "role":"Assistant Referee 2",
+               "country":"USA"
+            },
+            {
+               "name":"Mustapha Ghorbal",
+               "role":"Fourth official",
+               "country":"ALG"
+            },
+            {
+               "name":"Nicolás Gallo Barragán",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"COL"
+            },
+            {
+               "name":"Ezequiel BRAILOVSKY",
+               "role":"Offside VAR",
+               "country":"ARG"
+            },
+            {
+               "name":"Julio Bascuñán González",
+               "role":"Assistant VAR",
+               "country":"CHI"
+            },
+            {
+               "name":"Paolo Valeri",
+               "role":"Support VAR",
+               "country":"ITA"
+            },
+            {
+               "name":"Mokrane Gourari",
+               "role":"Reserve Assistant Referee",
+               "country":"ALG"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.141Z",
+         "date":"2022-12-05T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.699Z",
+         "winner":"Croatia",
+         "matchNumber":53
+      },
+      {
+         "id":"clakj8jil0054ra2txvwmlezy",
+         "venue":"Stadium 974",
+         "location":"Doha",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"BRA",
+            "goals":4,
+            "name":"Brazil",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"KOR",
+            "goals":1,
+            "name":"Korea Republic",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Clément Turpin",
+               "role":"Referee",
+               "country":"FRA"
+            },
+            {
+               "name":"Nicolas Danos",
+               "role":"Assistant Referee 1",
+               "country":"FRA"
+            },
+            {
+               "name":"Cyril Gringore",
+               "role":"Assistant Referee 2",
+               "country":"FRA"
+            },
+            {
+               "name":"Slavko VINCIC",
+               "role":"Fourth official",
+               "country":"SVN"
+            },
+            {
+               "name":"Jerome BRISARD",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"FRA"
+            },
+            {
+               "name":"Roberto Díaz Pérez Del Palomar",
+               "role":"Offside VAR",
+               "country":"ESP"
+            },
+            {
+               "name":"Alejandro José Hernández Hernández",
+               "role":"Assistant VAR",
+               "country":"ESP"
+            },
+            {
+               "name":"Benoit MILLOT",
+               "role":"Support VAR",
+               "country":"FRA"
+            },
+            {
+               "name":"Tomaz KLANCNIK",
+               "role":"Reserve Assistant Referee",
+               "country":"SVN"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.141Z",
+         "date":"2022-12-05T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.592Z",
+         "winner":"Brazil",
+         "matchNumber":54
+      },
+      {
+         "id":"clakj8jil0055ra2tzfa9w1dv",
+         "venue":"Education City Stadium",
+         "location":"Doha",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"MAR",
+            "goals":0,
+            "name":"Morocco",
+            "penalties":3
+         },
+         "awayTeam":{
+            "country":"ESP",
+            "goals":0,
+            "name":"Spain",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Fernando Andrés Rapallini",
+               "role":"Referee",
+               "country":"ARG"
+            },
+            {
+               "name":"Juan Pablo Belatti",
+               "role":"Assistant Referee 1",
+               "country":"ARG"
+            },
+            {
+               "name":"Diego Yamil Bonfá",
+               "role":"Assistant Referee 2",
+               "country":"ARG"
+            },
+            {
+               "name":"Raphael Claus",
+               "role":"Fourth official",
+               "country":"BRA"
+            },
+            {
+               "name":"Mauro Vigliano",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"ARG"
+            },
+            {
+               "name":"Nicolás Taran",
+               "role":"Offside VAR",
+               "country":"URU"
+            },
+            {
+               "name":"Nicolás Gallo Barragán",
+               "role":"Assistant VAR",
+               "country":"COL"
+            },
+            {
+               "name":"Julio Bascuñán González",
+               "role":"Support VAR",
+               "country":"CHI"
+            },
+            {
+               "name":"Bruno PIRES",
+               "role":"Reserve Assistant Referee",
+               "country":"BRA"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.141Z",
+         "date":"2022-12-06T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.556Z",
+         "winner":"Morocco",
+         "matchNumber":55
+      },
+      {
+         "id":"clakj8jil005ara2tytpyc8ms",
+         "venue":"Lusail Stadium",
+         "location":"Al Daayen",
+         "status":"completed",
+         "stageName":"Oitavas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"POR",
+            "goals":6,
+            "name":"Portugal",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"SUI",
+            "goals":1,
+            "name":"Switzerland",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"César Arturo Ramos Palazuelos",
+               "role":"Referee",
+               "country":"MEX"
+            },
+            {
+               "name":"Alberto Morín Méndez",
+               "role":"Assistant Referee 1",
+               "country":"MEX"
+            },
+            {
+               "name":"Miguel Ángel Hernández Paredes",
+               "role":"Assistant Referee 2",
+               "country":"MEX"
+            },
+            {
+               "name":"Istvan Kovacs",
+               "role":"Fourth official",
+               "country":"ROU"
+            },
+            {
+               "name":"Drew Fischer",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"CAN"
+            },
+            {
+               "name":"Ciro Carbone",
+               "role":"Offside VAR",
+               "country":"ITA"
+            },
+            {
+               "name":"Massimiliano Irrati",
+               "role":"Assistant VAR",
+               "country":"ITA"
+            },
+            {
+               "name":"Pol van Boekel",
+               "role":"Support VAR",
+               "country":"NED"
+            },
+            {
+               "name":"Mihai Ovidiu Artene",
+               "role":"Reserve Assistant Referee",
+               "country":"ROU"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-06T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.531Z",
+         "winner":"Portugal",
+         "matchNumber":56
+      },
+      {
+         "id":"clakj8jil005cra2tkhkdoyt2",
+         "venue":"Education City Stadium",
+         "location":"Doha",
+         "status":"completed",
+         "stageName":"Quartas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"CRO",
+            "goals":1,
+            "name":"Croatia",
+            "penalties":4
+         },
+         "awayTeam":{
+            "country":"BRA",
+            "goals":1,
+            "name":"Brazil",
+            "penalties":2
+         },
+         "officials":[
+            {
+               "name":"Michael Oliver",
+               "role":"Referee",
+               "country":"ENG"
+            },
+            {
+               "name":"Stuart Burt",
+               "role":"Assistant Referee 1",
+               "country":"ENG"
+            },
+            {
+               "name":"Gary Beswick",
+               "role":"Assistant Referee 2",
+               "country":"ENG"
+            },
+            {
+               "name":"Mustapha Ghorbal",
+               "role":"Fourth official",
+               "country":"ALG"
+            },
+            {
+               "name":"Pol van Boekel",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"NED"
+            },
+            {
+               "name":"Katie Nesbitt",
+               "role":"Offside VAR",
+               "country":"USA"
+            },
+            {
+               "name":"Massimiliano Irrati",
+               "role":"Assistant VAR",
+               "country":"ITA"
+            },
+            {
+               "name":"Juan SOTO",
+               "role":"Support VAR",
+               "country":"VEN"
+            },
+            {
+               "name":"Abdelhak ETCHIALI",
+               "role":"Reserve Assistant Referee",
+               "country":"ALG"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-09T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.568Z",
+         "winner":"Croatia",
+         "matchNumber":58
+      },
+      {
+         "id":"clakj8jil005era2thutvo57w",
+         "venue":"Lusail Stadium",
+         "location":"Al Daayen",
+         "status":"completed",
+         "stageName":"Quartas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"NED",
+            "goals":2,
+            "name":"Netherlands",
+            "penalties":3
+         },
+         "awayTeam":{
+            "country":"ARG",
+            "goals":2,
+            "name":"Argentina",
+            "penalties":4
+         },
+         "officials":[
+            {
+               "name":"Antonio MATEU",
+               "role":"Referee",
+               "country":"ESP"
+            },
+            {
+               "name":"Pau Cebrián Devis",
+               "role":"Assistant Referee 1",
+               "country":"ESP"
+            },
+            {
+               "name":"Roberto Díaz Pérez Del Palomar",
+               "role":"Assistant Referee 2",
+               "country":"ESP"
+            },
+            {
+               "name":"Victor GOMES",
+               "role":"Fourth official",
+               "country":"RSA"
+            },
+            {
+               "name":"Alejandro José Hernández Hernández",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"ESP"
+            },
+            {
+               "name":"Alessandro Giallatini",
+               "role":"Offside VAR",
+               "country":"ITA"
+            },
+            {
+               "name":"Drew Fischer",
+               "role":"Assistant VAR",
+               "country":"CAN"
+            },
+            {
+               "name":"Julio Bascuñán González",
+               "role":"Support VAR",
+               "country":"CHI"
+            },
+            {
+               "name":"Kyle Atkins",
+               "role":"Reserve Assistant Referee",
+               "country":"USA"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-09T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.685Z",
+         "winner":"Argentina",
+         "matchNumber":57
+      },
+      {
+         "id":"clakj8jil005gra2trljj1gng",
+         "venue":"Al Thumama Stadium",
+         "location":"Doha",
+         "status":"completed",
+         "stageName":"Quartas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"MAR",
+            "goals":1,
+            "name":"Morocco",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"POR",
+            "goals":0,
+            "name":"Portugal",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Facundo TELLO",
+               "role":"Referee",
+               "country":"ARG"
+            },
+            {
+               "name":"Ezequiel BRAILOVSKY",
+               "role":"Assistant Referee 1",
+               "country":"ARG"
+            },
+            {
+               "name":"Gabriel CHADE",
+               "role":"Assistant Referee 2",
+               "country":"ARG"
+            },
+            {
+               "name":"Ivan Arcides Barton Cisneros",
+               "role":"Fourth official",
+               "country":"SLV"
+            },
+            {
+               "name":"Mauro Vigliano",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"ARG"
+            },
+            {
+               "name":"Diego Yamil Bonfá",
+               "role":"Offside VAR",
+               "country":"ARG"
+            },
+            {
+               "name":"Ricardo De Burgos Bengoetxea",
+               "role":"Assistant VAR",
+               "country":"ESP"
+            },
+            {
+               "name":"Armando Villarreal",
+               "role":"Support VAR",
+               "country":"USA"
+            },
+            {
+               "name":"David Jonathan Morán Santos",
+               "role":"Reserve Assistant Referee",
+               "country":"SLV"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-10T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.589Z",
+         "winner":"Morocco",
+         "matchNumber":60
+      },
+      {
+         "id":"clakj8jil005ira2t5usy02fm",
+         "venue":"Al Bayt Stadium",
+         "location":"Al Khor",
+         "status":"completed",
+         "stageName":"Quartas de final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"ENG",
+            "goals":1,
+            "name":"England",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"FRA",
+            "goals":2,
+            "name":"France",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Wilton SAMPAIO",
+               "role":"Referee",
+               "country":"BRA"
+            },
+            {
+               "name":"Bruno Boschilia",
+               "role":"Assistant Referee 1",
+               "country":"BRA"
+            },
+            {
+               "name":"Bruno PIRES",
+               "role":"Assistant Referee 2",
+               "country":"BRA"
+            },
+            {
+               "name":"Mohammed ABDULLA",
+               "role":"Fourth official",
+               "country":"UAE"
+            },
+            {
+               "name":"Nicolás Gallo Barragán",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"COL"
+            },
+            {
+               "name":"Neuza Ines Back",
+               "role":"Offside VAR",
+               "country":"BRA"
+            },
+            {
+               "name":"Juan MARTINEZ",
+               "role":"Assistant VAR",
+               "country":"ESP"
+            },
+            {
+               "name":"Alejandro José Hernández Hernández",
+               "role":"Support VAR",
+               "country":"ESP"
+            },
+            {
+               "name":"Mohamed AL HAMMADI",
+               "role":"Reserve Assistant Referee",
+               "country":"UAE"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-10T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.566Z",
+         "winner":"France",
+         "matchNumber":59
+      },
+      {
+         "id":"clakj8jil005lra2tvzhc5nns",
+         "venue":"Lusail Stadium",
+         "location":"Al Daayen",
+         "status":"completed",
+         "stageName":"Semifinais",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"ARG",
+            "goals":3,
+            "name":"Argentina",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"CRO",
+            "goals":0,
+            "name":"Croatia",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Daniele Orsato",
+               "role":"Referee",
+               "country":"ITA"
+            },
+            {
+               "name":"Ciro Carbone",
+               "role":"Assistant Referee 1",
+               "country":"ITA"
+            },
+            {
+               "name":"Alessandro Giallatini",
+               "role":"Assistant Referee 2",
+               "country":"ITA"
+            },
+            {
+               "name":"Mohammed ABDULLA",
+               "role":"Fourth official",
+               "country":"UAE"
+            },
+            {
+               "name":"Massimiliano Irrati",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"ITA"
+            },
+            {
+               "name":"Katie Nesbitt",
+               "role":"Offside VAR",
+               "country":"USA"
+            },
+            {
+               "name":"Paolo Valeri",
+               "role":"Assistant VAR",
+               "country":"ITA"
+            },
+            {
+               "name":"Juan SOTO",
+               "role":"Support VAR",
+               "country":"VEN"
+            },
+            {
+               "name":"Mohamed AL HAMMADI",
+               "role":"Reserve Assistant Referee",
+               "country":"UAE"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-13T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.567Z",
+         "winner":"Argentina",
+         "matchNumber":61
+      },
+      {
+         "id":"clakj8jil005mra2tm5z1vjpi",
+         "venue":"Al Bayt Stadium",
+         "location":"Al Khor",
+         "status":"completed",
+         "stageName":"Semifinais",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"FRA",
+            "goals":2,
+            "name":"France",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"MAR",
+            "goals":0,
+            "name":"Morocco",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"César Arturo Ramos Palazuelos",
+               "role":"Referee",
+               "country":"MEX"
+            },
+            {
+               "name":"Alberto Morín Méndez",
+               "role":"Assistant Referee 1",
+               "country":"MEX"
+            },
+            {
+               "name":"Miguel Ángel Hernández Paredes",
+               "role":"Assistant Referee 2",
+               "country":"MEX"
+            },
+            {
+               "name":"Jesús Valenzuela Sáez",
+               "role":"Fourth official",
+               "country":"VEN"
+            },
+            {
+               "name":"Drew Fischer",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"CAN"
+            },
+            {
+               "name":"Neuza Ines Back",
+               "role":"Offside VAR",
+               "country":"BRA"
+            },
+            {
+               "name":"Nicolás Gallo Barragán",
+               "role":"Assistant VAR",
+               "country":"COL"
+            },
+            {
+               "name":"Armando Villarreal",
+               "role":"Support VAR",
+               "country":"USA"
+            },
+            {
+               "name":"Jorge Urrego Martínez",
+               "role":"Reserve Assistant Referee",
+               "country":"VEN"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-14T19:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.713Z",
+         "winner":"France",
+         "matchNumber":62
+      },
+      {
+         "id":"clakj8jim005rra2tzlhh44nw",
+         "venue":"Khalifa International Stadium",
+         "location":"Ar-Rayyan",
+         "status":"completed",
+         "stageName":"Disputa pelo terceiro lugar",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"CRO",
+            "goals":2,
+            "name":"Croatia",
+            "penalties":0
+         },
+         "awayTeam":{
+            "country":"MAR",
+            "goals":1,
+            "name":"Morocco",
+            "penalties":0
+         },
+         "officials":[
+            {
+               "name":"Abdulrahman AL JASSIM",
+               "role":"Referee",
+               "country":"QAT"
+            },
+            {
+               "name":"Taleb AL MARRI",
+               "role":"Assistant Referee 1",
+               "country":"QAT"
+            },
+            {
+               "name":"Saoud AL MAQALEH",
+               "role":"Assistant Referee 2",
+               "country":"QAT"
+            },
+            {
+               "name":"Raphael Claus",
+               "role":"Fourth official",
+               "country":"BRA"
+            },
+            {
+               "name":"Julio Bascuñán González",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"CHI"
+            },
+            {
+               "name":"Bruno PIRES",
+               "role":"Offside VAR",
+               "country":"BRA"
+            },
+            {
+               "name":"Pol van Boekel",
+               "role":"Assistant VAR",
+               "country":"NED"
+            },
+            {
+               "name":"Armando Villarreal",
+               "role":"Support VAR",
+               "country":"USA"
+            },
+            {
+               "name":"Neuza Ines Back",
+               "role":"Reserve Assistant Referee",
+               "country":"BRA"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-17T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:02.707Z",
+         "winner":"Croatia",
+         "matchNumber":63
+      },
+      {
+         "id":"clakj8jim005pra2t1ve8dv49",
+         "venue":"Lusail Stadium",
+         "location":"Al Daayen",
+         "status":"completed",
+         "stageName":"Final",
+         "time":"finished",
+         "timeExtraInfo":{
+            "current":"0'",
+            "firstHalfTime":null,
+            "firstHalfExtraTime":null,
+            "secondHalfTime":null,
+            "secondHalfExtraTime":null
+         },
+         "homeTeam":{
+            "country":"ARG",
+            "goals":3,
+            "name":"Argentina",
+            "penalties":4
+         },
+         "awayTeam":{
+            "country":"FRA",
+            "goals":3,
+            "name":"France",
+            "penalties":2
+         },
+         "officials":[
+            {
+               "name":"Szymon MARCINIAK",
+               "role":"Referee",
+               "country":"POL"
+            },
+            {
+               "name":"Pawel SOKOLNICKI",
+               "role":"Assistant Referee 1",
+               "country":"POL"
+            },
+            {
+               "name":"Tomasz LISTKIEWICZ",
+               "role":"Assistant Referee 2",
+               "country":"POL"
+            },
+            {
+               "name":"Ismail Elfath",
+               "role":"Fourth official",
+               "country":"USA"
+            },
+            {
+               "name":"Tomasz KWIATKOWSKI",
+               "role":"Video Assistant Referee (VAR)",
+               "country":"POL"
+            },
+            {
+               "name":"Kyle Atkins",
+               "role":"Offside VAR",
+               "country":"USA"
+            },
+            {
+               "name":"Juan SOTO",
+               "role":"Assistant VAR",
+               "country":"VEN"
+            },
+            {
+               "name":"Fernando GUERRERO",
+               "role":"Support VAR",
+               "country":"MEX"
+            },
+            {
+               "name":"Katie Nesbitt",
+               "role":"Reserve Assistant Referee",
+               "country":"USA"
+            }
+         ],
+         "createdAt":"2022-11-17T03:48:24.142Z",
+         "date":"2022-12-18T15:00:00.000Z",
+         "updatedAt":"2022-12-22T09:00:01.687Z",
+         "winner":"Argentina",
+         "matchNumber":64
+      }
+   ]
+}
